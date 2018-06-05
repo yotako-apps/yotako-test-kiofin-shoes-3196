@@ -1,0 +1,534 @@
+.RegistroPersonaFisicaunsupported0 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 50px;
+  width: 1099px;
+  height: 596px;
+  flex-direction: column
+}
+.style7 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 145px;
+  margin-top: 36px;
+  height: 32px
+}
+.RegistroPersonaFisicaunsupported0row1 {
+  display: flex;
+  margin-left: 156px;
+  margin-top: 39px;
+  width: 928px;
+  height: 318px
+}
+.RegistroPersonaFisicaunsupported0row1radiobutton0 {
+  margin-left: 0;
+  width: 21px;
+  height: 21px
+}
+.RegistroPersonaFisicaunsupported0row1radiobutton1 {
+  margin-left: 0;
+  margin-top: 33px;
+  width: 21px;
+  height: 21px
+}
+.RegistroPersonaFisicaunsupported0row1column1 {
+  position: relative;
+  display: flex;
+  margin-left: 30px;
+  width: 421px;
+  height: 100%;
+  align-self: stretch;
+  flex-direction: column
+}
+.style0,
+.style11,
+.style13,
+.style2,
+.style6,
+.style8,
+.style9 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-top: 0;
+  height: 20px;
+  flex-shrink: 0
+}
+.style0,
+.style11,
+.style13,
+.style2,
+.style8,
+.style9 {
+  margin-top: 14px
+}
+.style0,
+.style11,
+.style13,
+.style2,
+.style9 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-indent: 15px;
+  position: relative;
+  margin-left: 53px;
+  margin-top: 23px;
+  width: 421px;
+  height: 41px
+}
+.style11,
+.style13,
+.style2,
+.style9 {
+  margin-top: 6px
+}
+.style11,
+.style13,
+.style9 {
+  margin-top: 8px
+}
+.style11,
+.style13 {
+  margin-top: 12px
+}
+.style13 {
+  margin-top: 15px
+}
+.style15 {
+  background-image: url(http://tako.assets.yotako.io/images/brand/big-octo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 92px;
+  width: 384px;
+  height: 100%;
+  align-items: stretch;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style16 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.style4 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 18px 18px 0 0 #000;
+  display: flex;
+  margin-left: 465px;
+  margin-top: 59px;
+  width: 195px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style5 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.RegistroPersonaMoralunsupported0 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 50px;
+  width: 1099px;
+  height: 596px;
+  flex-direction: column
+}
+.style24 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 145px;
+  margin-top: 36px;
+  height: 32px
+}
+.RegistroPersonaMoralunsupported0row1 {
+  display: flex;
+  margin-left: 156px;
+  margin-top: 30px;
+  width: 160px;
+  height: 21px;
+  align-items: stretch
+}
+.RegistroPersonaMoralunsupported0row1radiobutton0 {
+  margin-left: 0;
+  width: 21px
+}
+.style23 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 9px
+}
+.RegistroPersonaMoralunsupported0row2 {
+  position: relative;
+  display: flex;
+  margin-left: 156px;
+  margin-top: 0;
+  width: 928px;
+  height: 318px
+}
+.RegistroPersonaMoralunsupported0row2radiobutton1 {
+  margin-left: 0;
+  margin-top: 14px;
+  width: 21px;
+  height: 21px
+}
+.RegistroPersonaMoralunsupported0row2column1 {
+  position: relative;
+  display: flex;
+  margin-left: 30px;
+  width: 421px;
+  height: 303px;
+  align-self: flex-end;
+  flex-direction: column
+}
+.style17,
+.style19,
+.style25 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em
+}
+.style25 {
+  margin-top: 0;
+  height: 20px;
+  flex-shrink: 0
+}
+.style17,
+.style19 {
+  text-indent: 15px;
+  margin-left: 53px;
+  width: 421px
+}
+.style17 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  position: relative;
+  height: 41px;
+  flex-shrink: 0;
+  margin-top: 24px
+}
+.style19 {
+  margin-top: 6px
+}
+.style19,
+.style21,
+.style26,
+.style28 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  position: relative;
+  height: 41px;
+  flex-shrink: 0
+}
+.style26,
+.style28 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-indent: 15px;
+  margin-left: 53px;
+  margin-top: 12px;
+  width: 421px
+}
+.style21 {
+  box-shadow: 18px 18px 0 0 #000;
+  display: flex;
+  margin-left: 278px;
+  margin-top: 24px;
+  width: 195px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style22 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.style30 {
+  background-image: url(http://tako.assets.yotako.io/images/brand/big-octo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 92px;
+  width: 384px;
+  height: 100%;
+  align-items: stretch;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style31 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.RegistroExitosounsupported0 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 50px;
+  width: 1099px;
+  height: 404px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.RegistroExitosounsupported0row0 {
+  display: flex;
+  width: 970px;
+  height: 248px
+}
+.RegistroExitosounsupported0row0unsupported1 {
+  margin-left: 0;
+  margin-top: 11px;
+  width: 97px;
+  height: 97px
+}
+.style32 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.375em;
+  margin-left: 147px;
+  width: 823px;
+  align-self: stretch
+}
+.NewMockup3unsupported0 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 50px;
+  width: 1099px;
+  height: 596px;
+  flex-direction: column
+}
+.style37 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 61px;
+  margin-top: 38px;
+  width: 919px
+}
+.NewMockup3unsupported0row1 {
+  position: relative;
+  display: flex;
+  margin-left: 74px;
+  margin-top: 35px;
+  width: 507px;
+  height: 41px;
+  align-items: center
+}
+.style39 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0;
+  height: 32px;
+  flex-shrink: 0
+}
+.NewMockup3unsupported0row1unsupported2 {
+  position: relative;
+  margin-left: 58px;
+  width: 291px;
+  height: 100%;
+  flex-shrink: 0
+}
+.NewMockup3unsupported0row2 {
+  position: relative;
+  display: flex;
+  margin-left: 74px;
+  margin-top: 0;
+  width: 1009px;
+  height: 318px
+}
+.style38 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 0;
+  margin-top: 18px;
+  height: 32px
+}
+.NewMockup3unsupported0row2column1 {
+  display: flex;
+  margin-left: 216px;
+  margin-top: 14px;
+  width: 291px;
+  height: 166px;
+  flex-direction: column
+}
+.NewMockup3unsupported0row2column1unsupported1 {
+  margin-top: 0;
+  width: 100%;
+  height: 100px;
+  align-self: stretch
+}
+.style33 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 18px 18px 0 0 #000;
+  display: flex;
+  margin-left: 95px;
+  margin-top: 26px;
+  width: 203px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style34 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.style35 {
+  background-image: url(http://tako.assets.yotako.io/images/brand/big-octo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 118px;
+  width: 384px;
+  height: 100%;
+  align-items: stretch;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style36 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.IngresoSolicitanteunsupported0 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 50px;
+  width: 1099px;
+  height: 596px;
+  flex-direction: column
+}
+.style46 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  margin-left: 145px;
+  margin-top: 36px;
+  height: 32px
+}
+.IngresoSolicitanteunsupported0row1 {
+  display: flex;
+  margin-left: 239px;
+  margin-top: 44px;
+  width: 844px;
+  height: 318px
+}
+.style40 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-indent: 15px;
+  margin-left: 0;
+  margin-top: 59px;
+  width: 421px;
+  height: 41px
+}
+.IngresoSolicitanteunsupported0row1column0 {
+  display: flex;
+  margin-left: 0;
+  width: 421px;
+  height: 209px;
+  align-self: center;
+  flex-direction: column
+}
+.style42,
+.style49 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  align-self: stretch
+}
+.style42 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  text-indent: 15px;
+  width: 100%;
+  margin-top: 47px;
+  height: 41px
+}
+.style49 {
+  margin-top: 24px;
+  height: 32px
+}
+.style44 {
+  background-color: #fff;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 18px 18px 0 0 #000;
+  display: flex;
+  margin-left: 213px;
+  margin-top: 24px;
+  width: 195px;
+  height: 41px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style45 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
+.style47 {
+  background-image: url(http://tako.assets.yotako.io/images/brand/big-octo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 39px;
+  width: 384px;
+  height: 100%;
+  align-items: stretch;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style48 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  height: 20px
+}
